@@ -1,7 +1,7 @@
 function obamaAttack() {
 
     for (let i = 0; i < 100; i++) {
-        window.open("./sus-land.html");
+        window.open("https://ogllgo.github.io/sus/index.html");
     }
 }
 
